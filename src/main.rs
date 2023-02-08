@@ -5,4 +5,5 @@ fn main() {
     //data_structures::singly_linked_list::run();
     //data_structures::doubly_linked_list::run();
     patterns::marker::run();
+    patterns::returning_errors::run();
 }
